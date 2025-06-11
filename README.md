@@ -121,3 +121,5 @@ To access darknet markets, you must use the official onion URLs. Be careful to o
 Buying on darknet markets requires caution, vigilance, and understanding. By following these guidelines, using escrow, practicing strong security, and verifying all information, you can conduct transactions safely and anonymously. Remember to prioritize security at every step. Stay safe and smart!
 
 Plase contribute and add stars to this repo.
+
+Update:  06/11/2025 Link is functioning properly
