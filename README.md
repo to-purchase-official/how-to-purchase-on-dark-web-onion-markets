@@ -126,4 +126,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Awesome! The link is up and running.
+
+
+Update: Secure URLs
