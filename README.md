@@ -128,4 +128,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Secure URLs
+
+
+Update: url is now responsive and live
