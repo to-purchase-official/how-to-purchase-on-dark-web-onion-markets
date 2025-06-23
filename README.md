@@ -130,4 +130,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: url is now responsive and live
+
+
+Update:  06/23/2025 08-17 Navigation repair
