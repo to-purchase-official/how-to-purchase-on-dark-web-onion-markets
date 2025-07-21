@@ -144,4 +144,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  18.07.2025 14:57
+
+
+Update:  21 July url is now functioning and operational
